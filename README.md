@@ -1,5 +1,4 @@
-# forum
-Java+servlet+ajax项目
+
 
 # 						forum 社区开发文档
 
